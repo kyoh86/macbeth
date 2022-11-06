@@ -91,6 +91,7 @@ var (
 								strings.Join(remParam, " "),
 							)
 						}
+						fmt.Println("tickingarea remove temporary-filling")
 						z = z + zSize
 					}
 					y = y + ySize
